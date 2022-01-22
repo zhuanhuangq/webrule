@@ -1,6 +1,8 @@
 Clubhouse
 
 DOMAIN-SUFFIX,api.amplitude.com
+DOMAIN-SUFFIX,clubhouse.pubnubapi.com
+
 IP-CIDR,23.90.133.0/24
 IP-CIDR,23.90.163.0/24
 IP-CIDR,23.236.96.162/32
