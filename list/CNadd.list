@@ -1,6 +1,6 @@
 # MyList
+
 DOMAIN-SUFFIX,todesk.com
-DOMAIN-SUFFIX,discovery.com
 DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,f3322.net
 DOMAIN-SUFFIX,wenshushu.cn
@@ -15,4 +15,9 @@ DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,mercuryclouds.com.cn
 DOMAIN-SUFFIX,tplinkcloud.com.cn
 DOMAIN-SUFFIX,shimo.im
+DOMAIN-KEYWORD,shimo
+DOMAIN-KEYWORD,aliyuncs
+DOMAIN-KEYWORD,tplinkcloud
+DOMAIN-KEYWORD,mercuryclouds
+DOMAIN-KEYWORD,wenshushu
 DOMAIN-SUFFIX,nstool.netease.com
