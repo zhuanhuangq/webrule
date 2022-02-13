@@ -13,8 +13,6 @@ DOMAIN-SUFFIX,stratum-zec.antpool.com
 DOMAIN-SUFFIX,stratum-dash.antpool.com
 DOMAIN-SUFFIX,stratum-btm.antpool.com
 DOMAIN-SUFFIX,kmd.antpool.com
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
 IP-CIDR,162.125.6.1/24
 IP-CIDR,47.108.153.82/24
 IP-CIDR,108.160.166.49/24
