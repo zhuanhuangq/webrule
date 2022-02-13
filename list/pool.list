@@ -6,6 +6,16 @@ DOMAIN-SUFFIX,f2pool.ada.support
 DOMAIN-SUFFIX,f2pool.com
 DOMAIN-SUFFIX,btc.com
 DOMAIN-SUFFIX,antpool.com
+DOMAIN-SUFFIX,stratum-etc.antpool.com
+DOMAIN-SUFFIX,ss.antpool.com
+DOMAIN-SUFFIX,stratum-ltc.antpool.com
+DOMAIN-SUFFIX,stratum-zec.antpool.com
+DOMAIN-SUFFIX,stratum-dash.antpool.com
+DOMAIN-SUFFIX,stratum-btm.antpool.com
+DOMAIN-SUFFIX,kmd.antpool.com
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+,162.125.6.1,47.108.153.82,108.160.166.49,47.88.58.234,98.159.108.61,69.63.178.13,154.83.15.45,157.240.7.8,157.240.8.50,115.126.100.160,185.45.6.103
 DOMAIN-SUFFIX,poolhb.com
 DOMAIN-SUFFIX,pandaminer.com
 DOMAIN-SUFFIX,beepool.org
