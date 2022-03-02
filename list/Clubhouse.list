@@ -2,7 +2,6 @@ Clubhouse
 
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,clubhouse.pubnubapi.com
-
 IP-CIDR,23.90.133.0/24
 IP-CIDR,23.90.163.0/24
 IP-CIDR,23.236.96.162/32
@@ -104,3 +103,4 @@ IP-CIDR,240.0.0.9/32
 #20220302
 IP-CIDR,128.1.193.215/32
 DOMAIN-SUFFIX,pubnubapi.com
+DOMAIN-SUFFIX,report-oversea.agora.io
