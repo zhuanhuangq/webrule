@@ -160,7 +160,6 @@ DOMAIN,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,cws.conviva.com
 IP-CIDR,13.35.0.0/17,no-resolve
-IP-CIDR,52.84.0.0/15,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
 DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,dssott.com.akamaized.net
