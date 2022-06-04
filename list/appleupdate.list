@@ -1,0 +1,42 @@
+# 屏蔽苹果设备系统更新
+# macOS 系统
+DOMAIN,configuration.apple.com
+DOMAIN,gnf-mdn.apple.com
+DOMAIN,gnf-mr.apple.com
+DOMAIN,gs.apple.com
+DOMAIN,swdist.apple.com
+DOMAIN,swdownload.apple.com
+DOMAIN,swpost.apple.com
+DOMAIN,ig.apple.com
+DOMAIN,skl.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,swscan.apple.com
+
+# macOS Recovery
+DOMAIN,osrecovery.apple.com
+DOMAIN,oscdn.apple.com
+
+# 屏蔽 iOS/iPadOS 企业证书
+DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,ocsp.g.aaplimg.com
+
+# iOS/iPadOS 更新
+DOMAIN,ns.itunes.apple.com
+DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com.akadns.net
+DOMAIN-SUFFIX,appldnld.g.aaplimg.com
+DOMAIN,ipsw.me
+
+# iOS/iPadOS, tvOS,macOS
+DOMAIN,gg.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com.akadns.net
+DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
+DOMAIN-SUFFIX,mesu-cdn.origin-apple.com.akadns.net
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,mesu.g.aaplimg.com
+DOMAIN,updates.cdn-apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,xp.apple.com
