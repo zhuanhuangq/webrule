@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,getblueshift.com
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,uplynk.com
+IP-CIDR,99.84.0.0/16,no-resolve
