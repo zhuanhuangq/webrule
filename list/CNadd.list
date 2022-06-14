@@ -25,3 +25,5 @@ DOMAIN-SUFFIX,tophub.today
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,checkip.synology.com
+#chat
+DOMAIN-SUFFIX,crisp.chat
