@@ -27,3 +27,4 @@ DOMAIN-SUFFIX,checkip.synology.com
 #chat
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,zhaoju.ren
+IP-CIDR,43.129.64.174/32,no-resolve
