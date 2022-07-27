@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,assets.fanart.tv
 DOMAIN-SUFFIX,tophub.today
+DOMAIN-SUFFIX,mypikpak.com
 #DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
 #DOMAIN-KEYWORD,google,Proxy #匹配域名关键字(交由Proxy代理服务器组)
 #DOMAIN,google.com,Proxy #匹配域名(交由Proxy代理服务器组)
@@ -16,5 +17,3 @@ DOMAIN-SUFFIX,tophub.today
 #DST-PORT,80,DIRECT #匹配数据目标端口(直连)
 #SRC-PORT,7777,DIRECT #匹配数据源端口(直连)
 ##在线IP段转CIDR地址：http://ip2cidr.com
-
-
