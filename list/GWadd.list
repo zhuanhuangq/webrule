@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,mypikpak.com
 #SRC-PORT,7777,DIRECT #匹配数据源端口(直连)
 ##在线IP段转CIDR地址：http://ip2cidr.com
 DOMAIN-SUFFIX,crisp.chat
+DOMAIN-SUFFIX,nivod4.tv
